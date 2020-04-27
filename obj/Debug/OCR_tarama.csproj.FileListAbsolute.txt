@@ -1,0 +1,14 @@
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\bin\Debug\Properties\OCR.png
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\bin\Debug\OCR_tarama.exe.config
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\bin\Debug\OCR_tarama.exe
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\bin\Debug\OCR_tarama.pdb
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\bin\Debug\IronOcr.dll
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\bin\Debug\IronOcr.xml
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\obj\Debug\OCR_tarama.csprojAssemblyReference.cache
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\obj\Debug\OCR_tarama.Form1.resources
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\obj\Debug\OCR_tarama.Properties.Resources.resources
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\obj\Debug\OCR_tarama.csproj.GenerateResource.cache
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\obj\Debug\OCR_tarama.csproj.CopyComplete
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\obj\Debug\OCR_tarama.exe
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\obj\Debug\OCR_tarama.pdb
+C:\Users\Emre Aktürkoğlu\source\repos\OCR_tarama\OCR_tarama\bin\Debug\deneme.jpg
